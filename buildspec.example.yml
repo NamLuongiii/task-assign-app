@@ -8,8 +8,8 @@ files:
 
 env:
   variables:
-    AWS_ACCOUNT_ID: <ACCOUNT_ID>
-    ECR_IMAGE_REGION: <ECR_IMAGE_REGION>
+    AWS_ACCOUNT_ID: 536697261588
+    ECR_IMAGE_REGION: ap-southeast-1
 
 phases:
   pre_build:
